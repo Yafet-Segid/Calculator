@@ -1,2 +1,5 @@
 # Calculator
-https://user-images.githubusercontent.com/83928646/124348867-18b35680-dbb2-11eb-8b31-7c818a7886e0.mov
+
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/83928646/124348892-37195200-dbb2-11eb-8e0e-355256a831d3.gif)
+
